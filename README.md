@@ -22,6 +22,7 @@ Solución integral de la Evaluación 03 del curso de Desarrollo Web en Tecsup. S
 ---
 
 ## Pregunta 1: DOM y Seguridad XSS
+![Evidencia Pregunta 1](img/p1.png)
 
 Se implementó el registro de productos manipulando el DOM de forma segura mediante `textContent` para prevenir ataques de inyección XSS. Además, se habilitó la prueba con `innerHTML` para evidenciar la vulnerabilidad.
 
